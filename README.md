@@ -21,7 +21,7 @@ I am actively applying for roles such as:
 - Cloud / DevOps Intern  
 - Graduate Trainee Engineer  
 
-My goal is to build strong technical skills, create meaningful projects, and start my IT career with consistent effort and learning. I believe in staying focused, improving step by step, and making my parents proud through hard work and dedication.
+My goal is to build strong technical skills, create meaningful projects, and start my IT career with consistent effort and learning. 
 
 ---
 
