@@ -1,4 +1,4 @@
--  Hi, I’m @Sushsudhina
+-  Hi, I’m  S Sushmitha
 -  I’m interested in Software developer and cloud computing
 -  I’m currently learning Machine learning
   
